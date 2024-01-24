@@ -1,0 +1,6 @@
+﻿  win32_platform.cpp
+E:\VisualStudio_Proj\TestProject\TestProject\Renderer.h(52,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\VisualStudio_Proj\TestProject\TestProject\Renderer.h(53,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\VisualStudio_Proj\TestProject\TestProject\Renderer.h(54,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\VisualStudio_Proj\TestProject\TestProject\Renderer.h(55,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  TestProject.vcxproj -> E:\VisualStudio_Proj\TestProject\x64\Debug\TestProject.exe
